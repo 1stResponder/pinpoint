@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinPoint", "PinPoint\PinPoint.csproj", "{79DAD432-628E-4F88-981B-FD02DFA41832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotSpatial.Positioning", "DotSpatial.Positioning\DotSpatial.Positioning.csproj", "{26E18588-B04D-4987-BF36-8206A7E36FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DAD432-628E-4F88-981B-FD02DFA41832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DAD432-628E-4F88-981B-FD02DFA41832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DAD432-628E-4F88-981B-FD02DFA41832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DAD432-628E-4F88-981B-FD02DFA41832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E18588-B04D-4987-BF36-8206A7E36FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E18588-B04D-4987-BF36-8206A7E36FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E18588-B04D-4987-BF36-8206A7E36FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E18588-B04D-4987-BF36-8206A7E36FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $3
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchSection = True
+		$2.NewLinesForBracesInProperties = True
+		$2.NewLinesForBracesInAccessors = True
+		$2.NewLinesForBracesInAnonymousMethods = True
+		$2.NewLinesForBracesInControlBlocks = True
+		$2.NewLinesForBracesInAnonymousTypes = True
+		$2.NewLinesForBracesInObjectCollectionArrayInitializers = True
+		$2.NewLinesForBracesInLambdaExpressionBody = True
+		$2.NewLineForElse = True
+		$2.NewLineForCatch = True
+		$2.NewLineForFinally = True
+		$2.NewLineForMembersInObjectInit = True
+		$2.NewLineForMembersInAnonymousTypes = True
+		$2.NewLineForClausesInQuery = True
+		$2.SpacingAfterMethodDeclarationName = False
+		$2.SpaceAfterMethodCallName = False
+		$2.SpaceBeforeOpenSquareBracket = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$3.FileWidth = 120
+		$3.TabWidth = 2
+		$3.IndentWidth = 2
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal
